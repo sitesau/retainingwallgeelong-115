@@ -1,0 +1,22 @@
+{
+  "wheel_id": 593,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-115",
+  "project": "retaining-wall-builders-geelong-how-to-choose-4fb51ffe1d4c64266",
+  "parent_t1_ref": "retainingwallgeelong-157",
+  "node_role": "feeder",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall builders geelong how to choose",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-geelong-how-to-choose-4fb51ffe1d4c64266/",
+  "tier": "T2",
+  "writeback_nonce": "fd680b5b0332d8a5",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallgeelong-157/",
+      "anchor": "a guide to retaining wall builders geelong",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
